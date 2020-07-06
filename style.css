@@ -47,3 +47,17 @@
     background-color: white;
     border-top: none;
 }
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+#submit-button{
+    margin: 10px 100px;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+    color: gray;
+}
